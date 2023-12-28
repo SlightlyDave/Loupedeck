@@ -1,8 +1,8 @@
 # Loupedeck G1000 Plugin
 
-**Please note there is no guarantee this will work and all the steps are done at your own risk** 
+### **Please note there is no guarantee this will work and all the steps are done at your own risk** 
 
-Contained here are the Loupedeck files that should allow you to use your G1000 in MSFS 2020
+Contained in this repository are the Loupedeck files that should allow you to use your G1000 in MSFS 2020
 
 Install steps:
 
