@@ -17,3 +17,5 @@ Install steps:
 5.  Install / Update the events.txt (Extras -> MSFS2020 -> Update events.txt (Legacy)), after this you might need to also install the "Install WASM Module"
 
 At the moment the PROC button on the MFD menu doesn't appear to work.
+
+Thank you to https://github.com/kubofisla/msfsdeck and https://github.com/calibx/msfsdeck for doing all the heavy lifting and getting it working
