@@ -8,7 +8,7 @@ Install steps:
 
 1.  Ensure that you have removed the existing MSFS Plugin from the Loupdeck software, if it has issues you could always try removing it from the %USERPROFILE%\AppData\Local\Loupedeck\Plugins folder, alternatively you could un-install the Loupedeck software and remove the folder %USERPROFILE%\AppData\Local\Loupedeck, then re-install it, this means it becomes a fresh install, but **YOU WILL LOOSE EXISTING SETTINGS BY UNINSTALLING / RE-INSTALLING BE WARNED**
 
-2.  Load the either the MSFS.lplug4 or MSFSPluginPackage.lplug4 file
+2.  Load the either the MSFS.lplug4 or MSFSPluginPackage.lplug4 file(s) into Loupedeck (double click on the files once downloaded)
 
 3.  You can then set-up the Loupedeck as you would like it or import the MSFS GA G1000.lp5 profile as a starting place.
 
