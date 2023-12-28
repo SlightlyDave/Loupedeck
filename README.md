@@ -16,6 +16,6 @@ Install steps:
 
 5.  Install / Update the events.txt (Extras -> MSFS2020 -> Update events.txt (Legacy)), after this you might need to also install the "Install WASM Module"
 
-**MSFSPluginPackage.lplug4 Is the version I compiled and have updated to 2.4.1 as I think I have fixed the PROC button issue on the MFD**
+**MSFSPluginPackage.lplug4 is the version I compiled and have updated to 2.4.1 as I think I have fixed the PROC button issue on the MFD**
 
 Thank you to https://github.com/kubofisla/msfsdeck and https://github.com/calibx/msfsdeck for doing all the heavy lifting and getting it working
